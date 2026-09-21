@@ -2,13 +2,13 @@
 
 A Python ROS 2 workspace demonstrating communication between a publisher and a subscriber. The `simple_pubsub` package sends numbered greetings over a ROS topic and logs them as they arrive.
 
-> **Branch:** The implementation is on the [`tehsin` branch](https://github.com/tehsin-shaik/ws_ros2/tree/tehsin). The `main` branch currently contains only the original README heading. Use the branch-specific clone command below to get the source code.
+> **Branch:** The implementation is on the [`tehsin` branch](https://github.com/tehsin-shaik/ws_ros2/tree/tehsin). 
 
 ## Overview
 
 This example introduces core ROS 2 concepts through two small Python nodes:
 
-- Creating nodes with `rclpy`.
+- Creating nodes with `rclpy`
 - Publishing and subscribing to `std_msgs/msg/String` messages.
 - Using a timer to publish once per second.
 - Handling incoming messages with a subscription callback.
