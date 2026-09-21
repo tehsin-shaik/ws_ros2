@@ -2,7 +2,7 @@
 
 A Python ROS 2 workspace demonstrating communication between a publisher and a subscriber. The `simple_pubsub` package sends numbered greetings over a ROS topic and logs them as they arrive.
 
-> **Branch:** The implementation is on the [`tehsin` branch](https://github.com/tehsin-shaik/ws_ros2/tree/tehsin). The `main` branch currently contains only the original README heading. Use the branch-specific clone command below to get the source code.
+> **Branch:** The implementation is on the [`tehsin` branch](https://github.com/tehsin-shaik/ws_ros2/tree/tehsin).
 
 ## Overview
 
